@@ -1,0 +1,54 @@
+Logo: Crearlo 
+
+
+
+Estructura: 
+
+Header
+	Nav
+	
+
+
+Body
+
+contenido
+
+slidebar (Opcional)
+
+Footer:
+
+	Una imagen ensima del footer (div) con x info, seguido el footer
+
+
+
+
+Contenido del Nav: 
+about 
+My Skill
+Work 
+Contact
+Blog
+
+Ideas: 
+Primera parte del contenido 
+mi nombre debajo de este una descripcion
+Enlaces
+al costado derecho un circulo con mi imagen
+
+Contenido centrado en la pagina 
+
+Uso de cartas para mostrar algo 
+
+
+menu en el ado izquierdo con su navegacion.
+cada opcion enviara el contenido del lado derecho a su correspondiente sitio
+
+Intentar que toda la pagina sea lo mas limpio posible, que no tenga mucho contenido
+
+
+si hay sectores con informacion la cual se modifique, con contenido realizarlo en el mismo lugar. 
+como en la imagen numero 3 
+
+Enlaces de paginas de referencia.
+https://www.giftegwuenu.dev/uses/
+https://jacekjeznach.com
